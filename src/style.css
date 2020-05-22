@@ -1,0 +1,49 @@
+
+
+
+body {
+	background-color: #002B36;
+}
+nav {
+    margin-bottom: 20px;
+}
+
+form {
+    margin-bottom: 55px;
+}
+
+.form-group {
+    margin-bottom: 0;
+}
+
+.grid{
+    width: 305px;
+    margin: 0 5px;
+}
+.artist {
+background: #FFF;
+color: #111;
+margin-bottom: 33px;
+text-align: center;
+}
+.artist h3 {
+    margin: 0;
+}
+.artist span {
+display: inline;
+}
+
+a:hover {
+    text-decoration: none;
+}
+/*input {
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    border: 1px solid #cccccc;
+    height: 40px;
+    font-size: 18px;
+    width: 330px;
+    background-color: #ffffff;
+    text-align: center;
+}*/
